@@ -1,0 +1,11 @@
+.wrapper{
+    display:flex;
+    flex-wrap: wrap;
+}
+html{
+    background-color: #ffc914;
+}
+main{
+    display:flex;
+    flex-direction: column-reverse;
+}
